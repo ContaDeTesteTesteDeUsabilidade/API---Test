@@ -1,3 +1,4 @@
+Teste de usabilidade do GitHub Web
 # API de Cadastro de Empresas
 
 Projeto desenvolvido como desafio prático de um curso de **Design Patterns**. A aplicação disponibiliza uma API REST para cadastrar e gerenciar empresas por CNPJ, consultando automaticamente seus dados cadastrais na [BrasilAPI](https://brasilapi.com.br/).
